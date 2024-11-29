@@ -10,3 +10,10 @@ El entrenamiento funcional se centra en mejorar la fuerza, la flexibilidad y el 
 - Reduce el riesgo de lesiones al entrenar movimientos cotidianos.
 - Mejora la capacidad de realizar actividades diarias con mayor facilidad y eficiencia.
 
+## Instrucciones
+1. Comienza con un calentamiento general (como saltos, estiramientos dinámicos o caminatas rápidas) durante 5-10 minutos.
+2. Realiza circuitos de ejercicios funcionales que incluyan movimientos compuestos, como sentadillas, flexiones, burpees, levantamientos de peso y saltos.
+3. Cada ejercicio debe realizarse durante 30-45 segundos, seguido de un descanso de 15-30 segundos.
+4. Completa entre 3 a 5 rondas de todo el circuito.
+5. Termina con una sesión de estiramientos para relajar los músculos y mejorar la flexibilidad.
+
