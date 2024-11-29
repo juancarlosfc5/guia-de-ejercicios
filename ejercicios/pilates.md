@@ -17,3 +17,10 @@ El Pilates es un sistema de ejercicio que se enfoca en fortalecer el núcleo (ab
 3. Mantén cada ejercicio controlado, respirando profundamente y concentrándote en la ejecución correcta de cada movimiento.
 4. Realiza entre 8 a 12 repeticiones por ejercicio, dependiendo de tu nivel de condición física.
 5. Finaliza con una serie de estiramientos suaves para relajar los músculos y mejorar la flexibilidad.
+
+## Consejos
+- Mantén siempre el control sobre tus movimientos; en Pilates, la calidad es más importante que la cantidad.
+- Respira de manera profunda y fluida: inhala para prepararte y exhala mientras realizas el esfuerzo.
+- Enfócate en mantener una buena alineación corporal, especialmente en la columna vertebral y las caderas.
+- Si eres principiante, comienza con ejercicios sencillos y aumenta la dificultad conforme tu fuerza y control mejoren.
+- Practica de forma regular para obtener los beneficios de estabilidad, flexibilidad y fuerza muscular.
