@@ -17,3 +17,9 @@ El entrenamiento funcional se centra en mejorar la fuerza, la flexibilidad y el 
 4. Completa entre 3 a 5 rondas de todo el circuito.
 5. Termina con una sesión de estiramientos para relajar los músculos y mejorar la flexibilidad.
 
+## Consejos
+- Mantén una postura correcta durante todo el entrenamiento para evitar lesiones.
+- Comienza con movimientos de bajo impacto y ve aumentando la intensidad a medida que tu condición física mejora.
+- Realiza el entrenamiento funcional de forma regular para mejorar tu rendimiento en actividades cotidianas.
+- Escoge ejercicios que desafíen tanto tu fuerza como tu coordinación y equilibrio.
+- Respira de manera constante y controlada para mantener el ritmo y evitar la fatiga prematura.
