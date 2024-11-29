@@ -15,3 +15,8 @@ Los ejercicios de fuerza son actividades físicas que implican la contracción d
 3. Descansa entre 30-90 segundos entre series para permitir la recuperación muscular.
 4. Termina con un enfriamiento y estiramientos enfocados en los músculos trabajados.
 
+## Consejos
+- Mantén una postura adecuada para evitar lesiones.
+- Incrementa gradualmente el peso o la dificultad del ejercicio.
+- Respira correctamente: inhala al bajar el peso, exhala al levantarlo.
+- Realiza una combinación de ejercicios que trabajen diferentes grupos musculares.
