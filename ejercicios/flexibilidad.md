@@ -17,3 +17,9 @@ Los ejercicios de flexibilidad están diseñados para mejorar el rango de movimi
 4. Repite los estiramientos de 2 a 4 veces por cada grupo muscular.
 5. Termina con respiraciones profundas para relajar el cuerpo y la mente.
 
+## Consejos
+- Estira siempre de manera lenta y controlada, evitando sentir dolor.
+- No te apresures; la flexibilidad mejora gradualmente con el tiempo.
+- Escucha a tu cuerpo y evita forzar los movimientos.
+- Realiza ejercicios de flexibilidad de forma regular, preferentemente después de entrenamientos de fuerza o cardio.
+- Recuerda respirar profundamente durante los estiramientos para mejorar la relajación muscular.
