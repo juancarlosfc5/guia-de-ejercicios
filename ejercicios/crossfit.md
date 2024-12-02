@@ -16,3 +16,9 @@ El CrossFit es un entrenamiento funcional de alta intensidad que combina ejercic
 3. Ejecuta los ejercicios con una intensidad alta, pero manteniendo la técnica correcta para evitar lesiones.
 4. Termina con un enfriamiento que incluya estiramientos enfocados en todo el cuerpo.
 
+## Consejos
+- Asegúrate de calentar adecuadamente antes de cada entrenamiento para preparar tu cuerpo.
+- Mantén una postura adecuada en todos los movimientos para evitar lesiones, especialmente al levantar pesas.
+- Escoge pesos adecuados a tu nivel de fuerza; la técnica siempre debe ser prioritaria.
+- Hidrátate bien antes, durante y después del entrenamiento.
+- Si eres principiante, empieza con ejercicios más sencillos y aumenta la complejidad a medida que mejoras tu condición física.
