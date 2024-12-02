@@ -16,3 +16,9 @@ El boxeo es un deporte de combate que combina técnica, resistencia y fuerza. A 
 3. Realiza series de ejercicios de alta intensidad, como golpes en saco, trabajo con manoplas o sombra.
 4. Termina con un enfriamiento que incluya estiramientos enfocados en hombros, brazos, muñecas y piernas.
 
+## Consejos
+- Usa guantes y vendas para proteger tus manos y muñecas.
+- Mantén una postura adecuada: pies ligeramente separados, rodillas flexionadas y codos cerca del cuerpo.
+- No olvides la respiración: exhala al golpear y mantén un ritmo constante.
+- Escucha a tu cuerpo y toma descansos si es necesario para evitar lesiones.
+- Varía tus entrenamientos para mejorar tanto la fuerza como la velocidad, combinando técnica y ejercicios cardiovasculares.
