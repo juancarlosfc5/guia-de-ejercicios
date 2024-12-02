@@ -8,3 +8,9 @@ El ciclismo es una actividad de bajo impacto que mejora la resistencia cardiovas
 - Fortalece músculos de las piernas, glúteos y core.
 - Aumenta la resistencia y la capacidad pulmonar.
 - Ayuda a reducir el estrés y mejorar el estado de ánimo.
+
+## Instrucciones
+1. Ajusta la bicicleta a tu tamaño y asegúrate de que todo esté bien colocado.
+2. Comienza con un calentamiento de 5-10 minutos pedaleando a un ritmo suave.
+3. Realiza un recorrido o entrenamiento en bicicleta durante al menos 30-60 minutos.
+4. Termina con un enfriamiento y estiramientos enfocados en las piernas y la espalda baja.
